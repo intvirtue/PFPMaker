@@ -32,10 +32,12 @@
             </div>
           </div>
           <div class="col-lg-8 col-xl-6 mx-auto">
-            <div><a
-              href="https://codecanyon.net/item/notion-svg-avatar-maker/37327271?ref=demo"
-              target="_blank"
-            > 🔥 🚀 Get Source Code </a></div>
+            <div>
+              <a
+                href="https://codecanyon.net/item/notion-svg-avatar-maker/37327271?ref=demo"
+                target="_blank"
+              > 🔥 🚀 Get Source Code </a>
+            </div>
             <b-form-group
               label="Transparent background"
               label-cols-sm="4"
@@ -144,14 +146,14 @@
                   stroke-linejoin="round"
                   class="mr-3"
                 >
-                  <polyline points="16 3 21 3 21 8"/>
+                  <polyline points="16 3 21 3 21 8" />
                   <line
                     x1="4"
                     y1="20"
                     x2="21"
                     y2="3"
                   />
-                  <polyline points="21 16 21 21 16 21"/>
+                  <polyline points="21 16 21 21 16 21" />
                   <line
                     x1="15"
                     y1="15"
@@ -186,8 +188,8 @@
                   stroke-linejoin="round"
                   class="mr-3"
                 >
-                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
-                  <polyline points="7 10 12 15 17 10"/>
+                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                  <polyline points="7 10 12 15 17 10" />
                   <line
                     x1="12"
                     y1="15"
@@ -217,8 +219,8 @@
                   stroke-linejoin="round"
                   class="mr-3"
                 >
-                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
-                  <polyline points="7 10 12 15 17 10"/>
+                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                  <polyline points="7 10 12 15 17 10" />
                   <line
                     x1="12"
                     y1="15"
@@ -229,7 +231,6 @@
                 Svg
               </button>
             </b-form-group>
-
           </div>
         </div>
       </div>
